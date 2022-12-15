@@ -1,0 +1,8 @@
+.menu{
+    
+    display: flex; 
+    gap: 72px;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    padding-right: 100px;
+}

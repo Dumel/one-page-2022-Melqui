@@ -1,0 +1,18 @@
+.home{
+  width: 100vw;
+    height: 1080px;
+    background-image: url(../img/logo\ part4.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+ 
+  h2.section-title{
+    font-family: 'Dancing Script', cursive;
+    font-size: 10rem;
+    color: white;
+    
+}

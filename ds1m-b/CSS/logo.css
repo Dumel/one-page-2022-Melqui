@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "sf_fedora";
+    src: local(sf_fedora)  url(../CSS/font/sf-fedora.shadow.ttf);
+}
+
+.logo{
+    font-size: 4rem;
+    width: 600px;
+    height: 80px;
+    padding-left: 100px;
+
+    
+}
+
+
+
+
